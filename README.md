@@ -103,8 +103,8 @@ Com este codigo conseguimos ler as informações presentes em nosso banco, e é 
 ### 3. Atualizando informações no banco de dados
 
 ~~~
-NOME_PRODUTO = "AGUA C/ GÁS"
-VALOR = 4
+NOME_PRODUTO = "MOLHO DE TOMATE"
+VALOR = 6
 
 comando = f'UPDATE produtos SET VALOR = {valor} WHERE NOME_PRODUTO = "{NOME_PRODUTO}"'
 
