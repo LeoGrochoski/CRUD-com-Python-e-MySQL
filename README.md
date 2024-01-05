@@ -96,7 +96,7 @@ resultado = cursor.fetchall() # ler o banco de dados
 
 print(resultado)
 ~~~
-<img src="/imagens/2. Lendo informações do banco de dados">
+<img src="/imagens/2. Lendo informações do banco de dados.png">
 
 Com este codigo conseguimos ler as informações presentes em nosso banco, e é primordial pois sempre que atuamos no banco seja inserindo, atualizando ou deletando precisamos verificar a situação do banco.
 
@@ -113,7 +113,7 @@ cursor.execute(comando)
 conexao.commit()
 ~~~
 
-<img src="/imagens/3. Atualizando informações no banco de dados">
+<img src="/imagens/3. Atualizando informações no banco de dados.png">
 
 ### 4. Deletando informações do banco de dados
 
@@ -127,7 +127,7 @@ cursor.execute(comando)
 conexao.commit()
 ~~~
 
-<img src="/imagens/4. Deletando informações do banco de dados">
+<img src="/imagens/4. Deletando informações do banco de dados.png">
 
 Por fim deletar é uma das funções basicas, invariavelmente iremos precisar deletar informações do banco.
 
