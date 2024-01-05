@@ -84,7 +84,7 @@ cursor.execute(comando)
 conexao.commit() 
 ~~~
 
-<img src="" alt="1. Criando informações no Banco" height=300> 
+<img src="CRUD-com-Python-e-MySQL/imagens/1. Criando informações no Banco.png" alt="1. Criando informações no Banco" height=300> 
 
 
 ### 2. Lendo informações do banco de dados
