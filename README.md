@@ -38,7 +38,7 @@ import mysql.connector
 conexao = mysql.connector.connect(
     host='localhost',
     user='root',
-    password='Mortadela@24',
+    password='senha',
     database='crud_python'
 )
 
